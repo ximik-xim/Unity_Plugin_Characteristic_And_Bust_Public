@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83eaf89d98f416d4d9b2e9e3469483ee, type: 3}
+  m_Name: New Filter Stages Sorting SO
+  m_EditorClassIdentifier: 
+  _keyOtherData:
+    _dataSO: {fileID: 11400000, guid: 0f5d0ed4b2d74a246897eca72c8d194a, type: 2}
+    _selectIndif: {fileID: 11400000, guid: be728920f90a1cc489ed6a53e07554f2, type: 2}
+    _error:
+      Enable: 0
+      TextError: 
+      MessageType: 0
+  _stagesSorting:
+  - _dataSO: {fileID: 11400000, guid: 9cafa9509bb94cd48bcbc0521088d6d9, type: 2}
+    _selectIndif: {fileID: 11400000, guid: 9e09c7969e78311438b71fc9cd983d00, type: 2}
+    _error:
+      Enable: 0
+      TextError: 
+      MessageType: 0
+  - _dataSO: {fileID: 11400000, guid: 0f5d0ed4b2d74a246897eca72c8d194a, type: 2}
+    _selectIndif: {fileID: 11400000, guid: be728920f90a1cc489ed6a53e07554f2, type: 2}
+    _error:
+      Enable: 0
+      TextError: 
+      MessageType: 0
+  - _dataSO: {fileID: 11400000, guid: 9cafa9509bb94cd48bcbc0521088d6d9, type: 2}
+    _selectIndif: {fileID: 11400000, guid: 8e0ba3f09fedb7949b5bd0eadbc9e65c, type: 2}
+    _error:
+      Enable: 0
+      TextError: 
+      MessageType: 0

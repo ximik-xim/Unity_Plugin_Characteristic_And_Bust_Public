@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3582c08899a44a4e8c0ea53d354b8f2, type: 3}
+  m_Name: New SO_Data_Key Chatacteristic Float
+  m_EditorClassIdentifier: 
+  _nameSO: New SO_Data_Key Chatacteristic Float
+  _setName: 1
+  _ChechTargetPath: 0
+  _list:
+  - _identifierData: {fileID: 11400000, guid: 2884820d481ffe14bb22db50d623dd84, type: 2}
+    _dataKey:
+      _key: "\u0423\u0440\u043E\u043D"
+  - _identifierData: {fileID: 11400000, guid: 80ed6b8a53b74da47a77a5dba6bc0f7c, type: 2}
+    _dataKey:
+      _key: "\u0425\u041F"
+  - _identifierData: {fileID: 11400000, guid: 02c3ad16a4d3c5f4e84896bc16efa4a7, type: 2}
+    _dataKey:
+      _key: "\u0411\u0440\u043E\u043D\u044F"
+  _fatalError:
+    Enable: 0
+    TextError: 
+    MessageType: 3
+  _error:
+    Enable: 0
+    TextError: 
+    MessageType: 2
