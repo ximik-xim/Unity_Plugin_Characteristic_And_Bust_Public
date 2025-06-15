@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _nameSO: New SO_Data_Key Characteristic Float 2
   _setName: 1
-  _ChechTargetPath: 0
+  _saveBackupChangeData: 1
   _list:
   - _identifierData: {fileID: 11400000, guid: 97ff1a07d7a7e2a478ac987e97c4ba01, type: 2}
     _dataKey:

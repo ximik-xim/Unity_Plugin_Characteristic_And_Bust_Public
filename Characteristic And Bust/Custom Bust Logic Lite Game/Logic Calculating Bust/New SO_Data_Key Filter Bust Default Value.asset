@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _nameSO: New SO_Data_Key Filter Bust Default Value
   _setName: 1
-  _ChechTargetPath: 0
+  _saveBackupChangeData: 1
   _list:
   - _identifierData: {fileID: 11400000, guid: be728920f90a1cc489ed6a53e07554f2, type: 2}
     _dataKey:

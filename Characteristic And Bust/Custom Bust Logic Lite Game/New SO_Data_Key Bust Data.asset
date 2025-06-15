@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _nameSO: New SO_Data_Key Bust Data
   _setName: 1
-  _ChechTargetPath: 0
+  _saveBackupChangeData: 1
   _list:
   - _identifierData: {fileID: 11400000, guid: 27b1c5ba8e64c5e4a8a30518eb06a5e9, type: 2}
     _dataKey:
@@ -23,8 +23,8 @@ MonoBehaviour:
   _fatalError:
     Enable: 0
     TextError: 
-    MessageType: 0
+    MessageType: 3
   _error:
     Enable: 0
     TextError: 
-    MessageType: 0
+    MessageType: 2
