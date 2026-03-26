@@ -5,7 +5,7 @@ using UnityEngine;
 /// <summary>
 /// Получение абстракции(любого места котор. может вернут характеристику) через Patch DKO
 /// </summary>
-public class GetAbsStorageCharacteristicInPatch : AbsGetStorageCharacteristicFloat
+public class GetAbsStorageChrcInPatch : AbsGetStorageChrcFloat
 {
    [SerializeField] 
    private GetDKOPatch _patchGetStorageCharacteristicFloat;
@@ -26,7 +26,7 @@ public class GetAbsStorageCharacteristicInPatch : AbsGetStorageCharacteristicFlo
 
    public override GetCharacteristicDataFloat GetData(KeyCharacteristicFloat key)
    {
-      var data = (DKODataInfoT<AbsGetStorageCharacteristicFloat>)_patchGetStorageCharacteristicFloat.GetDKO();
+      var data = (DKODataInfoT<AbsGetStorageChrcFloat>)_patchGetStorageCharacteristicFloat.GetDKO();
       return data.Data.GetData(key);
    }
 }

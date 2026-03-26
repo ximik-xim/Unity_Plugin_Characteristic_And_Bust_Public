@@ -20,7 +20,7 @@ public class ParametersBustData
     private List<AbsGetListFilterDataFloat> _listFilterDataFloats;
 
     public List<AbsGetListFilterDataFloat> ListFilterDataFloats => _listFilterDataFloats;
-    [SerializeField] 
+     
     public List<AbsGetListBustDataFloat> ListBustData => _listBustData;
 
 }

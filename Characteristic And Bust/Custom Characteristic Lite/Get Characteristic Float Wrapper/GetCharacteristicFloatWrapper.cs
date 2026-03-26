@@ -12,7 +12,7 @@ public class GetCharacteristicFloatWrapper : MonoBehaviour
     private GetDataSO_KeyCharacteristicFloat _keyCharacteristic;
     
     [SerializeField] 
-    private AbsGetStorageCharacteristicFloat _characteristicStorage;
+    private AbsGetStorageChrcFloat _characteristicStorage;
 
     public event Action OnInit;
     public bool IsInit => _isInit;

@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-public class GetInfoInitCharacteristicCharacteristicStorageFloat : AbsGetStorageCharacteristicFloat
+public class GetInfoInitChrcStorageFloat : AbsGetStorageChrcFloat
 {
    [SerializeField]
    private CharacteristicStorageFloat _characteristicStorageFloat;
